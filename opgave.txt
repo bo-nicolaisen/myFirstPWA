@@ -1,0 +1,2 @@
+en lille app med billede af mig og et navn
+navigation til info side
